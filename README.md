@@ -59,9 +59,9 @@
   •
   <a href="./files/assessment/Component Diagram v2.pdf"><strong> Component Diagram v2 </strong></a>
   •
-  <a href="./files/assessment/All Attributes in chef.pdf"><strong> All Attributes in chef </strong></a>
+  <a href="./files/assessment/All attributes in chef.pdf"><strong> All Attributes in chef </strong></a>
   •
-  <a href="./files/assessment/All Attributes in playScreen.pdf"><strong> All Attributes in playScreen </strong></a>
+  <a href="./files/assessment/All attributes in playScreen.pdf"><strong> All Attributes in playScreen </strong></a>
   •
   <a href="./files/assessment/Chef Class Diagram.pdf"><strong> Chef Class Diagram </strong></a>
   •
