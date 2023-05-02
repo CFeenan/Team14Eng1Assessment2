@@ -28,6 +28,49 @@
   <a href="./files/info/eng1-team-assessment-1.pdf"><strong> assessment.pdf </strong></a>
 </p>
 
+<h1 align="center">Assessment 2 Files</h1>
+
+<h3 align="center">Version Control Repository</h3>
+<p align="center">
+  <a href="https://github.com/team13eng1/piazza-panic"><strong>github.com</strong></a>
+</p>
+
+<h3 align="center">Change Report</h3>
+<p align="center">
+  <a href="./files/assessment/Requirements v2.pdf"><strong>Change Report</strong></a>
+</p>
+
+<h3 align="center">Website</h3>
+<p align="center">
+  <a href="https://team13eng1.github.io/"><strong>Website Link</strong></a>
+</p>
+
+<h3 align="center">Requirements</h3>
+<p align="center">
+  <a href="./files/assessment/Requirements v2.pdf"><strong>Requirements v2</strong></a>
+</p>
+
+<h3 align="center">Architecture</h3>
+<p align="center">
+  <a href="./files/assessment/Requirements v2.pdf"><strong>Architecture</strong></a>
+</p>
+
+<h3 align="center">Continuous Integration</h3>
+<p align="center">
+  <a href="./files/assessment/Requirements v2.pdf"><strong>Continuous Integration link</strong></a>
+</p>
+
+<h3 align="center">Implementation.Jar</h3>
+<p align="center">
+  <a href="./files/assessment/Requirements v2.pdf"><strong>Continuous Integration link</strong></a>
+</p>
+<h3 align="center">Implementation PDF</h3>
+<p align="center">
+  <a href="./files/assessment/Requirements v2.pdf"><strong>Implementation.pdf</strong></a>
+</p>
+
+
+
 <h1 align="center">Assessment 1 Files</h1>
 
 <h3 align="center">Version Control Repository</h3>
@@ -97,46 +140,6 @@
   <a href="./files/assessment/Implementation Part B.pdf"><strong> Implementation Part B </strong></a>
 </p>
 
-<h1 align="center">Assessment 2 Files</h1>
-
-<h3 align="center">Version Control Repository</h3>
-<p align="center">
-  <a href="https://github.com/team13eng1/piazza-panic"><strong>github.com</strong></a>
-</p>
-
-<h3 align="center">Change Report</h3>
-<p align="center">
-  <a href="./files/assessment/Requirements v2.pdf"><strong>Change Report</strong></a>
-</p>
-
-<h3 align="center">Website</h3>
-<p align="center">
-  <a href="https://team13eng1.github.io/"><strong>Website Link</strong></a>
-</p>
-
-<h3 align="center">Requirements</h3>
-<p align="center">
-  <a href="./files/assessment/Requirements v2.pdf"><strong>Requirements v2</strong></a>
-</p>
-
-<h3 align="center">Architecture</h3>
-<p align="center">
-  <a href="./files/assessment/Requirements v2.pdf"><strong>Architecture</strong></a>
-</p>
-
-<h3 align="center">Continuous Integration</h3>
-<p align="center">
-  <a href="./files/assessment/Requirements v2.pdf"><strong>Continuous Integration link</strong></a>
-</p>
-
-<h3 align="center">Implementation.Jar</h3>
-<p align="center">
-  <a href="./files/assessment/Requirements v2.pdf"><strong>Continuous Integration link</strong></a>
-</p>
-<h3 align="center">Implementation PDF</h3>
-<p align="center">
-  <a href="./files/assessment/Requirements v2.pdf"><strong>Implementation.pdf</strong></a>
-</p>
 
 
 
