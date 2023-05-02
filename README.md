@@ -105,10 +105,13 @@
 </p>
 
 <h3 align="center">Change Report</h3>
-  
+<p align="center">
+  <a href="./files/assessment/Requirements v2.pdf"><strong>Change Report</strong></a>
+</p>
+
 <h3 align="center">Website</h3>
 <p align="center">
-  <a href="https://team13eng1.github.io/"><strong>this</strong></a>
+  <a href="https://team13eng1.github.io/"><strong>Website Link</strong></a>
 </p>
 
 <h3 align="center">Requirements</h3>
@@ -116,7 +119,24 @@
   <a href="./files/assessment/Requirements v2.pdf"><strong>Requirements v2</strong></a>
 </p>
 
+<h3 align="center">Architecture</h3>
+<p align="center">
+  <a href="./files/assessment/Requirements v2.pdf"><strong>Architecture</strong></a>
+</p>
+
 <h3 align="center">Continuous Integration</h3>
- 
+<p align="center">
+  <a href="./files/assessment/Requirements v2.pdf"><strong>Continuous Integration link</strong></a>
+</p>
+
+<h3 align="center">Implementation.Jar</h3>
+<p align="center">
+  <a href="./files/assessment/Requirements v2.pdf"><strong>Continuous Integration link</strong></a>
+</p>
+<h3 align="center">Implementation PDF</h3>
+<p align="center">
+  <a href="./files/assessment/Requirements v2.pdf"><strong>Implementation.pdf</strong></a>
+</p>
+
 
 
